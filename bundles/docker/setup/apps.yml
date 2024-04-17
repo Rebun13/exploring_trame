@@ -1,0 +1,4 @@
+trame: # Default app under /index.html
+  app: trame-app
+trame-app: # /trame-app.html
+  app: trame-app

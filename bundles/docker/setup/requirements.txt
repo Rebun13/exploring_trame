@@ -1,0 +1,9 @@
+# Use published version instead of local-app from initialize.sh
+# trame-app
+--extra-index-url https://wheels.vtk.org
+trame
+trame-vtk
+trame-vuetify
+vtk-osmesa
+pyvista
+requests
